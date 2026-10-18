@@ -75,8 +75,7 @@ Choose between four modes:
 
 ## 📞 Contact  
 For custom bundlers, Solana bots, or integrations:  
-**Telegram:** [RRR](https://t.me/microRustyme)
-
+**Mail:** fiv3fingers.dev@gmail.com
 ---
 
 ⭐ If this repository helps you, please **Star** and **Fork** it!  
